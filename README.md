@@ -18,13 +18,11 @@
 **Languages**
 - C++
 - Python
-- JavaScript
 - SQL
 
 **Core Subjects**
 - Data Structures & Algorithms
 - DBMS
-- Operating Systems
 - Object-Oriented Programming
 
 **Tools**
